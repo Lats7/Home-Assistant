@@ -1,0 +1,5 @@
+Navigate to Unraid
+Using the share folder with the Home Assistant VM installed create a new VM and select the OS the VM is for.
+Use integrations and add-ons to build out your home assistant.
+Use NGINX Proxy Manager to create an SSL secured URL to access remotely.
+Use Cloudflare to proxy your DNS settings.
